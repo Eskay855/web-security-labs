@@ -38,4 +38,4 @@ Successfully completed the lab by identifying and exploiting a basic server-side
 
 ## Key Learning
 
-This lab improved my understanding...
+This lab improved my understanding of server-side template injection and demonstrated how unsafe handling of user-controlled input within templates can introduce serious security vulnerabilities. It also reinforced the importance of secure input handling and avoiding the direct evaluation of untrusted data.
