@@ -32,6 +32,10 @@ Used Burp Suite to intercept and inspect HTTP requests containing serialized dat
 
 Successfully completed the lab by demonstrating how modifying serialized data could influence application behaviour when insufficient validation was performed.
 
+### Lab Completion Evidence
+
+![Insecure Deserialization lab completed](Lab3.png)
+
 ## Key Learning
 
-This lab improved my understanding of insecure deserialization and demonstrated the security risks of trusting serialized data supplied by users. It also reinforced the importance of validating data and enforcing security controls on the server side.
+This lab improved my understanding of insecure deserialization...
