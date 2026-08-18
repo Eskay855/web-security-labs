@@ -32,6 +32,10 @@ Used Burp Suite to intercept and inspect HTTP requests and identify where user-c
 
 Successfully completed the lab by identifying and exploiting a basic server-side template injection vulnerability.
 
+### Lab Completion Evidence
+
+![Server-Side Template Injection lab completed](Lab4.png)
+
 ## Key Learning
 
-This lab improved my understanding of server-side template injection and demonstrated how unsafe handling of user-controlled input within templates can introduce serious security vulnerabilities. It also reinforced the importance of secure input handling and avoiding the direct evaluation of untrusted data.
+This lab improved my understanding...
