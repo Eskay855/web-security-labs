@@ -29,8 +29,11 @@ The objective of the lab was to identify and exploit server-side parameter pollu
 Used Burp Suite to intercept and analyse HTTP requests sent by the application. I examined the parameters used by the application and modified requests to investigate how user-controlled input could influence the backend API request.
 
 ## Outcome
-
 Successfully completed the lab and demonstrated how server-side parameter pollution can be used to influence backend processing.
+
+### Lab Completion Evidence
+
+![Web Security Academy lab successfully completed](Lab1.png)
 
 ## Key Learning
 
