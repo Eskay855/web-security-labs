@@ -33,6 +33,10 @@ Used Burp Suite to intercept and inspect HTTP requests sent to the application. 
 
 Successfully completed the lab by demonstrating how improper handling of the HTTP Host header could allow authentication or access controls to be bypassed.
 
+### Lab Completion Evidence
+
+![Host Header Authentication Bypass lab completed](Lab2.png)
+
 ## Key Learning
 
 This lab improved my understanding of HTTP Host header attacks and demonstrated why applications should not rely on untrusted HTTP headers when making security-sensitive access control decisions.
