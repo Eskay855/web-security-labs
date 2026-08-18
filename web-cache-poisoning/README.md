@@ -33,6 +33,10 @@ Used Burp Suite to intercept and analyse HTTP requests and responses while inves
 
 Successfully completed the lab by demonstrating how an unkeyed HTTP header could be used to poison the web cache and influence responses subsequently served to users.
 
+### Lab Completion Evidence
+
+![Web Cache Poisoning lab completed](Lab5.png)
+
 ## Key Learning
 
 This lab improved my understanding of web caching mechanisms, cache keys and the security risks created when user-controlled HTTP headers influence cached responses. It also demonstrated the importance of correctly configuring cache behaviour and preventing untrusted input from affecting cached content.
